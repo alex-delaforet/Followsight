@@ -8,12 +8,11 @@ It overlays customizable reticles (sight markers) onto the live camera feed to h
 - 📸 Real-time overlay of aiming reticles
 - 🖼 Upload your own PNG reticles
 - 🧠 Reticle bank hosted on the official FollowSight website
-- 💾 CoreData-based storage for your favorite sight markers
 - 🛠 Designed for technical use in theatre, concerts, and events
 
 ## 📦 Requirements
 
-- iOS 16+
+- iOS 18+
 - Built with SwiftUI and CoreML
 - Xcode 15+
 
