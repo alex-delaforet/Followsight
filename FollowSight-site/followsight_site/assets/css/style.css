@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+header {
+  background-color: #222;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+nav {
+  margin-top: 0.5rem;
+}
+nav a {
+  color: #ddd;
+  margin: 0 10px;
+  text-decoration: none;
+}
+nav a:hover {
+  color: #fff;
+}
+main {
+  padding: 2rem;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #222;
+  color: white;
+  position: relative;
+  bottom: 0;
+}
+.gallery {
+  text-align: center;
+}
+.reticle-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1rem;
+  padding-top: 1rem;
+}
+.reticle-grid img {
+  width: 100%;
+  max-width: 200px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
