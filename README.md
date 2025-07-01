@@ -13,24 +13,18 @@ It overlays customizable reticles (sight markers) onto the live camera feed to h
 ## 📦 Requirements
 
 - iOS 18+
-- Built with SwiftUI and CoreML
-- Xcode 15+
 
 ## 🚀 Getting Started
-
-1. Clone the repository
-2. Open `FollowSight.xcodeproj` in Xcode
-3. Run on a real device (camera required)
-4. Start aiming like a pro
+- FollowSight app is not available on the App Store yet. Please wait or contact me so I can prevent you when the app will be available.
 
 ## 🔗 Website & Reticle Gallery
 
-Visit the official site: [followsight.app](https://yourfutureURL.github.io)
+Visit the official site: https://alex-delaforet.github.io/Followsight
 
 ## 📧 Contact
 
-Made by Alexandre, 14 y.o. developer and lighting enthusiast.  
-You can reach me at: `alexandre@email.com` (replace with real one)
+Made by Alexandre Lepage, 14 y.o. developer and lighting enthusiast.  
+You can reach me at: lx.lepage@icloud.com
 
 ---
 
