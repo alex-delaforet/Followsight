@@ -23,8 +23,7 @@ Visit the official site: https://alex-delaforet.github.io/Followsight
 
 ## 📧 Contact
 
-Made by Alexandre Lepage, 14 y.o. developer and lighting enthusiast.  
-You can reach me at: lx.lepage@icloud.com
+Made by Alexandre, 14 y.o. developer and lighting enthusiast.
 
 ---
 
